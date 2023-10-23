@@ -10,3 +10,6 @@ my Computer vision trainingtasks
 
 # R_G_B_Change.py
 ![image](https://github.com/Osama-Abd-El-Mohsen/CV_Training/assets/62304741/7e259c25-cbdf-48f4-b71c-2a1220bd7236)
+
+
+# Color_Detection.py
