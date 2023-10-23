@@ -18,3 +18,6 @@ my Computer vision trainingtasks
 ![image](https://github.com/Osama-Abd-El-Mohsen/CV_Training/assets/62304741/25592274-1ed6-4665-9dfd-cd4304d3ac5d)
 
 # Color_Recognization.py
+
+https://github.com/Osama-Abd-El-Mohsen/CV_Training/assets/62304741/c3c84fc5-08f9-4c05-a7fd-39e91bb988a6
+
