@@ -21,3 +21,6 @@ my Computer vision trainingtasks
 
 https://github.com/Osama-Abd-El-Mohsen/CV_Training/assets/62304741/c3c84fc5-08f9-4c05-a7fd-39e91bb988a6
 
+# Salt&Paper.py
+
+![alt text](/Screenshot%20from%202023-11-04%2013-24-46.png)
