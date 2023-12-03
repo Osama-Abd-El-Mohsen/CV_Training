@@ -24,3 +24,7 @@ https://github.com/Osama-Abd-El-Mohsen/CV_Training/assets/62304741/c3c84fc5-08f9
 # Salt&Paper.py
 
 ![alt text](/Screenshot%20from%202023-11-04%2013-24-46.png)
+
+# contour
+
+# Car_Motion_detection

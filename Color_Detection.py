@@ -15,10 +15,6 @@ cv2.createTrackbar("UV","Trackers",0,255,nothing)
 
 
 
-
-
-
-
 cap = cv2.VideoCapture(0)
 while 1 :
     _,frame = cap.read()
