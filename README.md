@@ -2,7 +2,7 @@
 my Computer vision training tasks
 
 # Car_Motion_detection
-![alt text](/car_motion_detection.mp4)
+![](assits/car_motion_detection.mp4)
 
 # Color_Recognization.py
 
@@ -17,10 +17,10 @@ https://github.com/Osama-Abd-El-Mohsen/CV_Training/assets/62304741/c3c84fc5-08f9
 
 
 # Salt&Paper.py 
-![alt text](/Screenshot%20from%202023-11-04%2013-24-46.png)
+![alt text](assits/Screenshot%20from%202023-11-04%2013-24-46.png)
 
 # contour
-![alt text](/contours.png)
+![alt text](assits/contours.png)
 
 
 # Draw_lines.py
