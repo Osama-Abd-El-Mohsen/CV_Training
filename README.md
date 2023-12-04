@@ -2,7 +2,7 @@
 my Computer vision training tasks
 
 # Car_Motion_detection
-![](assits/car_motion_detection.mp4)
+https://github.com/Osama-Abd-El-Mohsen/CV_Training/blob/main/assits/car_motion_detection.mp4
 
 # Color_Recognization.py
 
