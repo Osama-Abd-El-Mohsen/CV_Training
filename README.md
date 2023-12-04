@@ -1,8 +1,11 @@
 # CV_Training
 my Computer vision training tasks
 
+
+
+
 # Car_Motion_detection
-https://github.com/Osama-Abd-El-Mohsen/CV_Training/blob/main/assits/car_motion_detection.mp4
+https://github.com/Osama-Abd-El-Mohsen/CV_Training/assets/62304741/942426d1-427e-4087-8c1d-bafbd794f3e4
 
 # Color_Recognization.py
 
