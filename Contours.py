@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("contours.jpg")
+img = cv2.imread("assits/contours.jpg")
 img = cv2.resize(img, (512, 512))
 
 wb_img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)

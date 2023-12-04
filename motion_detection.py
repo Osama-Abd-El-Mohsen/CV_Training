@@ -1,6 +1,6 @@
 import cv2
 
-cap = cv2.VideoCapture("motion_detection.mp4")
+cap = cv2.VideoCapture("assits/motion_detection.mp4")
 
 while 1:
 
@@ -23,8 +23,8 @@ while 1:
 
         cv2.rectangle(frame1, (x, y), (x+w, y+h), (0, 255, 0), 4)
 
-    cv2.imshow("dilate", dilate)
-    cv2.imshow("frame1", frame1)
+    cv2.imshow("Filter", dilate)
+    cv2.imshow("Output", frame1)
 
     key = cv2.waitKey(1)
     if key == 27:

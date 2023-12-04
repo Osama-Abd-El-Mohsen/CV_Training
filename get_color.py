@@ -16,7 +16,7 @@ def click_event (event,x,y,flags,param):
 
 points=[]
 
-img=cv2.imread("octane.jpg",1)
+img=cv2.imread("assits/octane.jpg")
 img=cv2.resize(img,(512,512))
 print(img.size)
 cv2.imshow("octane",img)
